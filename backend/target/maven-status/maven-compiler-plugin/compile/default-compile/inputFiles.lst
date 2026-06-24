@@ -1,0 +1,14 @@
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\config\CorsConfig.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\controller\ConsultaController.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\controller\MedicoController.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\controller\PacienteController.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\HospitalApplication.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\model\Consulta.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\model\Medico.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\model\Paciente.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\repository\ConsultaRepository.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\repository\MedicoRepository.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\repository\PacienteRepository.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\service\ConsultaService.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\service\MedicoService.java
+C:\Users\maico\sistema-hospitalar\backend\src\main\java\com\hospital\service\PacienteService.java

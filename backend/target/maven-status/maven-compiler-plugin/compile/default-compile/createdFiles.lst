@@ -1,0 +1,14 @@
+com\hospital\repository\ConsultaRepository.class
+com\hospital\service\MedicoService.class
+com\hospital\controller\MedicoController.class
+com\hospital\repository\MedicoRepository.class
+com\hospital\model\Consulta.class
+com\hospital\controller\ConsultaController.class
+com\hospital\controller\PacienteController.class
+com\hospital\model\Paciente.class
+com\hospital\repository\PacienteRepository.class
+com\hospital\model\Medico.class
+com\hospital\service\ConsultaService.class
+com\hospital\service\PacienteService.class
+com\hospital\config\CorsConfig.class
+com\hospital\HospitalApplication.class
